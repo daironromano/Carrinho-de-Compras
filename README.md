@@ -1,4 +1,4 @@
-# Carrinho_de_Compras
+# Carrinho-de-Compras
 Uma simulação de um carrinho de compras 
 
 ## Carrinho de Compras 🛒
